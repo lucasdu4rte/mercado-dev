@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "re-base": "^3.0.5",
+    "re-base": "^3.2.3",
     "react": "^16.0.0",
     "react-dom": "^16.7.0",
     "react-router-dom": "^4.2.2",
